@@ -28,8 +28,8 @@ const Home = () => {
       <Header />
       <Carousels />
       <Enterlines />
-      <Menuouter />
       <h1 className="text-center">Top Dises</h1>
+      <Menuouter />
       <Topdises />
       <Visitus />
       <Map />
